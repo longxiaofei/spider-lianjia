@@ -7,3 +7,5 @@
 ### request.py 包含requests请求函数和获取总页数的函数
 ### config.py 各种配置
 ### try.py 多余没用的文件
+爬取信息：  
+![image](https://github.com/longxiaofei/spider-lianjia/blob/master/lianjia_spiderV1.1/img1.jpg?raw=true)
